@@ -1,2 +1,2 @@
-# patrones-dise-o
+# patrones-diseno
 Aplicacion de patrones de diseño mas usados
